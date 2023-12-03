@@ -1,0 +1,11 @@
+<resources>
+    <string name="A">Text composable</string>
+    <string name="Acuerpo">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="B">Image composable</string>
+    <string name="Bcuerpo">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="C">Row composable</string>
+    <string name="Ccuerpo">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="D">Column composable</string>
+    <string name="Dcuerpo">A layout composable that places its children in a vertical sequence.</string>
+    <string name="app_name">cuadrantes</string>
+</resources>

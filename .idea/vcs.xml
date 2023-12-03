@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/++Intents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-DiceRoller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-RGBColors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5-CalculoPropinas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8-EjemploNavigationComponent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8-NavigationComponent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9-PracticaNavClase" vcs="Git" />
+  </component>
+</project>
